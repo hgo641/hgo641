@@ -1,10 +1,4 @@
-
-<a href="https://blog.hongo.app/">
-  <img src="https://img.shields.io/badge/-Blog-orange?style=flat-square"/>
-</a>
-
-
-
+<h3 align="center">  Me  </h3>
 
 * **인하대학교 컴퓨터공학과** <sub>(2018.03 ~ 2023.02)</sub>  
 * **멋쟁이 사자처럼 8기** <sub>(2020.03 ~ 2020.12)</sub>  
@@ -13,8 +7,13 @@
 * **우아한테크코스 5기 BE** <sub>(2023.02 ~ )</sub>
 
 
+<br/>
 
+<a href="https://blog.hongo.app/">
+  <img src="https://img.shields.io/badge/-Blog-orange?style=flat-square"/>
+</a>
 
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgo641&show_icons=true&theme=algolia)
 
