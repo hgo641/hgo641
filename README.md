@@ -18,6 +18,5 @@
 
 <br/>
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgo99)](https://solved.ac/hgo99/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgo99)](https://solved.ac/hgo99/)
