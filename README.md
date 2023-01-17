@@ -12,9 +12,6 @@
 <a href="https://blog.hongo.app/"><img src="https://img.shields.io/badge/-Blog-orange?style=flat-square"/></a>
 <a href="mailto:hgo641@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hgo641@gmail.com"/></a>
 <br/>
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgo641&show_icons=true&theme=algolia)
 
 <br/>
 
