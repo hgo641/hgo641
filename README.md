@@ -15,8 +15,10 @@
 
 <br/>
 
-![hgo641's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hgo641&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+![hgo641's github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hgo641&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgo641&layout=compact&theme=tokyonight)
+
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hgo641&theme=react&line_height=40&hide=css"/> </a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgo99)](https://solved.ac/hgo99/)
